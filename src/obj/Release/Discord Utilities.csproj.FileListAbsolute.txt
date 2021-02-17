@@ -1,0 +1,21 @@
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\Discord Utilities.exe.config
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\Discord Utilities.exe
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\Discord Utilities.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\DarkUI.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\DiscordRPC.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\MetroFramework.Design.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\MetroFramework.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\DiscordRPC.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\DiscordRPC.xml
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord_Utilities.error.resources
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord_Utilities.form1.resources
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord_Utilities.Properties.Resources.resources
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.csproj.GenerateResource.cache
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.csproj.CopyComplete
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.exe
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Release\Discord Utilities.csprojAssemblyReference.cache

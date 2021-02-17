@@ -1,0 +1,21 @@
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\Discord Utilities.exe.config
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\Discord Utilities.exe
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\Discord Utilities.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\MetroFramework.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.csprojAssemblyReference.cache
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord_Utilities.Form1.resources
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord_Utilities.Properties.Resources.resources
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.csproj.GenerateResource.cache
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.csproj.CopyComplete
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.exe
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord Utilities.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\DarkUI.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\DiscordRPC.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\DiscordRPC.pdb
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\DiscordRPC.xml
+C:\Users\Mehmetali345\source\repos\Discord Utilities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mehmetali345\source\repos\Discord Utilities\obj\Debug\Discord_Utilities.error.resources
